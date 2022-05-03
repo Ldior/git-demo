@@ -5,7 +5,5 @@ ppp
 hello git
 
 master master 
-host-fix
-host-fix
-host-fix
+
 host-fix
